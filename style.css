@@ -11,6 +11,17 @@
   background-color: RGB(200, 143, 156);
 }
 
+.click2:link, .click2:visited {
+  background-color: pink;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+}
+.click2:hover, .click2:active {
+  background-color: RGB(200, 143, 156);
+}
+
 div {
 text-align: center;
 }
